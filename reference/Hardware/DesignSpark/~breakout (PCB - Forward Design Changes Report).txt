@@ -1,0 +1,25 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, June 28, 2020
+Project Path:       C:\Users\deton\Google Drive\DetonationEMS\DetonationEMS\reference\Hardware\DesignSpark\breakout.prj
+Design Path:        C:\Users\deton\Google Drive\DetonationEMS\DetonationEMS\reference\Hardware\DesignSpark\~breakout.pcb
+Design Title:       
+Created:            6/28/2020 8:03:06 PM
+Last Saved:         6/28/2020 9:46:39 PM
+Editing Time:       82 min
+Units:              thou (precision 0)
+
+Added net class "Signal".
+
+Added net "N0000".
+Added net "N0001".
+
+Added component reference "J1" of component "43045-2400", package "43045-2400".
+Added component reference "CONN1" of component "CONN_DIL_26", package "DSC".
+
+Connected pin "J1.23" to net "N0001".
+Connected pin "J1.24" to net "N0000".
+
+
+End Of Report.

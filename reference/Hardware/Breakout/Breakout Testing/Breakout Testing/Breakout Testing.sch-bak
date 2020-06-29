@@ -1,0 +1,57 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x12_Top_Bottom J1
+U 1 1 5EF97DA4
+P 2750 3400
+F 0 "J1" H 2800 4117 50  0000 C CNN
+F 1 "Conn_02x12_Top_Bottom" H 2800 4026 50  0000 C CNN
+F 2 "" H 2750 3400 50  0001 C CNN
+F 3 "~" H 2750 3400 50  0001 C CNN
+	1    2750 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x12_Top_Bottom J2
+U 1 1 5EF998A6
+P 2750 4950
+F 0 "J2" H 2800 5667 50  0000 C CNN
+F 1 "Conn_02x12_Top_Bottom" H 2800 5576 50  0000 C CNN
+F 2 "" H 2750 4950 50  0001 C CNN
+F 3 "~" H 2750 4950 50  0001 C CNN
+	1    2750 4950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 4350 2550 4450
+Wire Wire Line
+	3450 4350 2550 4350
+$Comp
+L Connector_Generic:Conn_02x20_Top_Bottom J3
+U 1 1 5EF959AD
+P 4450 4050
+F 0 "J3" V 4454 2962 50  0000 R CNN
+F 1 "Conn_02x20_Top_Bottom" V 4545 2962 50  0000 R CNN
+F 2 "" H 4450 4050 50  0001 C CNN
+F 3 "~" H 4450 4050 50  0001 C CNN
+	1    4450 4050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3550 4350 3550 4450
+Wire Wire Line
+	3550 4450 3050 4450
+$EndSCHEMATC
