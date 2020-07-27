@@ -1,6 +1,0 @@
-# Created by VisualPlace version 3.0.6164M at Sat Jul 25 23:23:27 2020
-# Report origin: (0.0/0.0) = lower left corner of PCB
-# Units: inch
-"Designator","Value","X","Y","Rotation","Side","Package"
-
-"IC5","","0.8861","0.4179","-","Top","SOIC-16"
