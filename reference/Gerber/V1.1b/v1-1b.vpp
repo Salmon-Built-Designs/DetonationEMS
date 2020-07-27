@@ -10,13 +10,13 @@
  pos-top=v1-1b-pos.csv
  bom=PreIgition BOM JLCPCB csv.csv
 [File-CRC]
- silk-top=89615559
+ silk-top=c340e340
  gerber-edge=48d66e82
- mask-top=abf28ddb
- copper-top=50d46d9c
- drillfile=e217ac2a
- pos-top=b8d48c04
- bom=e7a91009
+ mask-top=edf26d82
+ copper-top=38fa971c
+ drillfile=7f1f27a1
+ pos-top=9fdcbe58
+ bom=30fca410
 [Config]
  gerber-rotate=0
  dpi-top=600
@@ -39,7 +39,7 @@
  format=generic (Generic)
  origin-fab-top=-0.102 -0.102 mm
 [Settings]
- zoom=203
+ zoom=206
  sidebar=284
 [Mount]
  C26=0
@@ -59,9 +59,9 @@
  show-decals=0
  silk-colourize=1
 [Cache]
- crc-top=89615559
+ crc-top=C340E340
  dpi-top=600.0
- silk-top=vptfg-v1-1b-89615559.png
+ silk-top=vptfg-v1-1b-c340e340.png
 [Checkmarks]
  C1=1
  C2=1
@@ -83,6 +83,7 @@
  C23=1
  C24=1
  C25=1
+ C30=1
  C16=1
  R1=1
  R2=1
@@ -138,9 +139,4 @@
  LED2=1
  LED3=1
  LED4=1
- C26=1
- C27=1
- C28=1
- C29=1
- R64=1
- R65=1
+ IC6=1
