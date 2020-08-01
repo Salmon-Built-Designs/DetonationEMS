@@ -31,7 +31,7 @@
  origin-fab-top=0.0 0.0 mm
  profile-top=0.102 0.102 24.130 24.130 mm
  envelope-art-top=2.311 2.362 24.333 24.333 mm
- format=vpintrinsic
+ format=vpintrinsic (VisualPlace intrinsic)
 [Cache]
  crc-top=A500A69
  silk-top=vptfg-VR_Conditioner_v3-a500a69.png
