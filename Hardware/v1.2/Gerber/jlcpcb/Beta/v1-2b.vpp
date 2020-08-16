@@ -1,0 +1,68 @@
+[Outline-top]
+ dpi=1000.0
+ envelope=5 4 3934 3933
+ count=1
+ rd1=05000000040000005E0F00005D0F0000E2
+[Files]
+ silk-top=v1.2.0_silkTop.gto
+ silk-bottom=
+ gerber-edge=v1.2.0_contour.gm1
+ mask-top=v1.2.0_maskTop.gts
+ mask-bottom=
+ copper-top=v1.2.0_copperTop.gtl
+ copper-bottom=
+ drillfile=v1.2.0_drill.txt
+ pos-top=v1-2b-pos(1).csv
+ bom=v1.2b BOM CVS.csv
+[File-CRC]
+ silk-top=94792e10
+ gerber-edge=48d66e82
+ mask-top=9bcb366c
+ copper-top=a53162a7
+ drillfile=d9e81bf9
+ pos-top=fb3a87be
+ bom=82dc956f
+[Config]
+ gerber-rotate=0
+ dpi-top=1000
+ dpi-bottom=1000
+ profile=3 100%
+ origin-art-top=0.013 0.000 mm
+ origin-fab-top=0.0 0.0 mm
+ profile-top=0.114 0.102 99.797 99.797 mm
+ envelope-art-top=-0.013 0.000 100.013 100.000 mm
+ format=vpintrinsic
+[Cache]
+ crc-top=94792E10
+ silk-top=vptfg-v1-2b-94792e10.png
+ dpi-top=1000.0
+[PlacementStages]
+ currentstage=1
+[Settings]
+ zoom=207
+ sidebar=355
+[Restore]
+ pos-top=v1-2b-pos.csv
+ origin-fab-top=0.0 0.0 mm
+ format=generic (Generic)
+[Mount]
+ D15=0
+ D16=0
+ Q1=0
+ Q2=0
+ Q3=0
+ Q4=0
+ Q5=0
+ Q6=0
+ Q7=0
+ Q8=0
+ U2=0
+ U1=0
+ J4=0
+ :=0
+ Hole=0
+ Through=0
+ MPX4250A=0
+ IC1=0
+ IC2=0
+ IC4=0
