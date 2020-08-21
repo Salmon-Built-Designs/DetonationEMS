@@ -15,12 +15,12 @@
  pos-top=v1-2b-pos(1).csv
  bom=v1.2b BOM CVS.csv
 [File-CRC]
- silk-top=94792e10
+ silk-top=6cf4bd73
  gerber-edge=48d66e82
- mask-top=9bcb366c
- copper-top=a53162a7
- drillfile=d9e81bf9
- pos-top=fb3a87be
+ mask-top=19361d72
+ copper-top=d013c992
+ drillfile=e91261ff
+ pos-top=5f00965e
  bom=82dc956f
 [Config]
  gerber-rotate=0
@@ -31,15 +31,15 @@
  origin-fab-top=0.0 0.0 mm
  profile-top=0.114 0.102 99.797 99.797 mm
  envelope-art-top=-0.013 0.000 100.013 100.000 mm
- format=vpintrinsic
+ format=vpintrinsic (VisualPlace intrinsic)
 [Cache]
- crc-top=94792E10
- silk-top=vptfg-v1-2b-94792e10.png
+ crc-top=6CF4BD73
  dpi-top=1000.0
+ silk-top=vptfg-v1-2b-6cf4bd73.png
 [PlacementStages]
  currentstage=1
 [Settings]
- zoom=207
+ zoom=203
  sidebar=355
 [Restore]
  pos-top=v1-2b-pos.csv
